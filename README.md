@@ -121,4 +121,4 @@ To run this project, you will need to add the following environment variables to
 - [frontend](https://reach-hub-assignment.vercel.app/)
 - [backend](https://reachhub-server.onrender.com)
 
-### Note: As server is feployed on free hosing service it may takes 1-2 minutes on first request (for login or signup) 
+### Note: As server is deployed on free hosing service it may takes 1-2 minutes on first request (for login or signup) 
