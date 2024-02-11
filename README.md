@@ -87,7 +87,7 @@ npm run dev
 - Description: Downloads the csv file containing rating history of all players 
 - Parameters:
    - headers: token generated after authetication
-- Returns: a csv file which 
+- Returns: a csv file 
 
 #### Signup
 - Endpoint: /signup
